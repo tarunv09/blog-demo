@@ -5,10 +5,11 @@ module.exports = {
       name: `Tarun Varshney`,
       summary: `, a final year Computer Science student passionate about technology, building things and self-improvement.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `tarunv09`,
+      twitter: ` `,
     },
   },
   plugins: [
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/my-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
