@@ -8,9 +8,9 @@ Starting a blog looks difficult. You have to come up with a name, set it up some
 
 If you manage to get started, there are yet more obstacles. How can you grow an audience if you’re starting from zero? How do you figure out what to write about? And then – how do you keep writing, even when you don’t feel like it?
 
-So that's why I have written this article. And Don't worry, I will walk you through everything you need to know. I will talk about:
+So that's why I have written this article. And Don't worry, I will walk you through everything you need to know. In this article we will cover:
 
-    1. How to set up a blog in 10 minutes with GatsbyJS
+    1. How to set up a blog in under 15 minutes with GatsbyJS
     2. How to host it for free on Netlify
 
 ### 🚀 Quick start
@@ -123,13 +123,13 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
       On the next screen, click **“Deploy Site”**. After a minute or so of building, your site will be published and ready to view!
 
-      It’ll have some sort of ugly URL by default, but Netlify makes it easy to point a custom domain at it if you have one. Netlify will set up free SSL for you, too. If you need a domain, you can try something like NameCheap (because I've been using them for free, thanks to **[Github Student Developer Pack]**(https://education.github.com/pack).
+      It’ll have some sort of ugly URL by default, but Netlify makes it easy to point a custom domain at it if you have one. Netlify will set up free SSL for you, too. If you need a domain, you can try something like NameCheap (because I've been using them for free, thanks to [Github Student Developer Pack.](https://education.github.com/pack) 
 
-   ####By Now you have:#####
+   ####By Now, you have:#####
 
            learn something new today 🎓  
            a local dev environment 💻 where you can write posts and preview them
-           deploy it over web for free 🔥
-           and ownership of your own content forever, Tada!🎉
+           deployed it over the web for free 🔥
+           ownership of your own content forever, Tada!🎉
 
-   ####If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09) or check out [this blog on github](https://github.com/tarunv09/blog-demo). And if not, Start Blogging!####
+   ####If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09) or visit [this blog's repo files on github](https://github.com/tarunv09/blog-demo). Also you can checkout the [official Gatsby tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification. And if everything worked-out for you, then go ahead and Start Blogging!####

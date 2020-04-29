@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog`,
+    title: `Welcome to My Blog`,
     author: {
       name: `Tarun Varshney`,
       summary: `, a final year Computer Science student passionate about technology, building things and self-improvement.`,
     },
-    description: `A starter blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A personal blog.`,
+    siteUrl: `https://tarun-varshney.netlify.app/`,
     social: {
       linkedin: `tarunv09`,
       twitter: ` `,
