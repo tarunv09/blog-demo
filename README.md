@@ -62,5 +62,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to this documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-####If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09). Also you can checkout the [official Gatsby youtube tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification.####
+#### If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09). Also you can checkout the [official Gatsby youtube tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification.
 
