@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://tarun-varshney.netlify.app/">
-    <img alt="Tarun Varshney" src="./content/name-icon.png" width="60" />
+    <img alt="Tarun Varshney" src="./content/name-icon.png" width="128" />
   </a>
 </p>
 <h1 align="center">
