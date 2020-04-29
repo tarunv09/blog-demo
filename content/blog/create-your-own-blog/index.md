@@ -13,7 +13,7 @@ So that's why I have written this article. And Don't worry, I will walk you thro
     1. How to set up a blog in under 15 minutes with GatsbyJS
     2. How to host it for free on Netlify
 
-### 🚀 Quick start
+### 🚀 Let's Go
 
 Let's talk about [Gatsby](https://www.gatsbyjs.org/). It’s a static site generator written in JavaScript and backed by React and GraphQL, and it’s gaining a ton of popularity lately.
 
@@ -59,6 +59,15 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
       Update the image at `content/assets/profile-pic.jpg` to be **your own face** instead of Kyle’s.
 
+      **Some Quick Tips:**
+
+      - **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page layout. `src` is a convention for “source code”. For-example, if you want to modify your bio say add another social account, then goto `/src/component/bio.js` and edit `href attribute` and link the username in `...\gatsby-config.js` 
+
+      - **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
+
+      If you want to know more about each directories in brief then visit this [link.](https://github.com/tarunv09/blog-demo/blob/master/README.md)
+
+
   4.  **Write a New Post**
 
       This starter project is set up to look for blog posts under the `content/blog` directory (because `gatsby-config.js` told it to).
@@ -84,9 +93,9 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
       ```shell
           Try This: What happens if you create a similar file under the content/blog/hello-world directory?
-           Does it appear on the front page? 
-           What’s the resulting URL? 
-           Does it all make sense? If not, edit as much as want!
+                    Does it appear on the front page? 
+                    What’s the resulting URL? 
+                    Does it all make sense? If not, edit as much as want!
       ```
 
   5. **Now It's Time to Push Your Blog to GitHub**
@@ -123,13 +132,13 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
       On the next screen, click **“Deploy Site”**. After a minute or so of building, your site will be published and ready to view!
 
-      It’ll have some sort of ugly URL by default, but Netlify makes it easy to point a custom domain at it if you have one. Netlify will set up free SSL for you, too. If you need a domain, you can try something like NameCheap (because I've been using them for free, thanks to [Github Student Developer Pack.](https://education.github.com/pack) 
+      It’ll have some sort of ugly URL by default, but Netlify makes it easy to point a custom domain at it if you have one. Netlify will set up free SSL for you, too. If you need a domain, you can try something like NameCheap (because I've been using them for free, thanks to [Github Student Developer Pack).](https://education.github.com/pack) 
 
    ####By Now, you have:#####
 
            learn something new today 🎓  
-           a local dev environment 💻 where you can write posts and preview them
-           deployed it over the web for free 🔥
+           created a local dev environment 💻 where you can write posts and preview them
+           deployed it over the web for free 🔥 
            ownership of your own content forever, Tada!🎉
 
-   ####If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09) or visit [this blog's repo files on github](https://github.com/tarunv09/blog-demo). Also you can checkout the [official Gatsby tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification. And if everything worked-out for you, then go ahead and Start Blogging!####
+   ####If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09) or visit [this blog's repo files on github](https://github.com/tarunv09/blog-demo). Also you can checkout the [official Gatsby youtube tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification. And if everything worked-out for you, then go ahead and Start Blogging!####
