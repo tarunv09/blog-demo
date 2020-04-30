@@ -1,7 +1,7 @@
 ---
 title: How I created this blog using Gatsby and Netlify
 date: "2020-03-15T22:40:32.169Z"
-description: Learn how to create to your own blog using static-site generator like Gatsby and deploy it with the help of Netfily.
+description: Learn how to create your own blog using static-site generator like Gatsby and deploy it with the help of Netlify.
 ---
 
 Starting a blog looks difficult. You have to come up with a name, set it up somehow, figure out where to host it… it’s enough to make you just give up and go write on Medium (or not at all).
@@ -64,6 +64,8 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
       - **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page layout. `src` is a convention for “source code”. For-example, if you want to modify your bio say add another social account, then goto `/src/component/bio.js` and edit `href attribute` and link the username in `...\gatsby-config.js` 
 
       - **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
+
+      - **If you are having a hard time figuring out what's going on inside the different files/directories, then dont't worry about it. Nobody is expecting you to figure-out everything on just first glance. Take your time!**
 
       If you want to know more about each directories in brief then visit this [link.](https://github.com/tarunv09/blog-demo/blob/master/README.md)
 
@@ -132,7 +134,7 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
       On the next screen, click **“Deploy Site”**. After a minute or so of building, your site will be published and ready to view!
 
-      It’ll have some sort of ugly URL by default, but Netlify makes it easy to point a custom domain at it if you have one. Netlify will set up free SSL for you, too. If you need a domain, you can try something like NameCheap (because I've been using them for free, thanks to [Github Student Developer Pack).](https://education.github.com/pack) 
+      It’ll have some sort of ugly URL by default, but Netlify makes it easy to point a custom domain at it if you have one. Netlify will set up free SSL for you, too. If you need a domain, you can try something like NameCheap (because I've been using them for free, thanks to [Github Student Developer Pack](https://education.github.com/pack)).
 
    ####By Now, you have:#####
 
