@@ -12,8 +12,7 @@ Oh, and here's a great quote on the Wikipedia from a movie called Terminator,
 
 > "I'll be back" is a catchphrase associated with Arnold Schwarzenegger,
 > which was made famous in the 1984 science fiction film The Terminator.
-> On June 21, 2005, it was chosen as #37 on the American Film Institute list,  
-> AFI's 100 Years... 100 Movie Quotes. Schwarzenegger uses the same line,
+> On June 21, 2005, it was chosen as #37 on the American Film Institute list, AFI's 100 Years... 100 Movie Quotes. Schwarzenegger uses the same line, 
 > or some variant of it, in many of his later films.
 
 ![ill_be_back](./ill_be_back.jpg)
