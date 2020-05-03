@@ -5,7 +5,7 @@ module.exports = {
       name: `Tarun Varshney`,
       summary: `, a final year Computer Science student passionate about technology, building things and self-improvement.`,
     },
-    description: `My personal blog.`,
+    description: `My blog.`,
     siteUrl: `https://tarun-varshney.netlify.app/`,
     social: {
       linkedin: `tarunv09`,

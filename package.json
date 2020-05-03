@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "my-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Tarun Varshney<https://in.linkedin.com/in/tarunv09>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/tarunv09/blog-demo"
   },
   "dependencies": {
     "gatsby": "^2.21.0",
@@ -40,9 +40,9 @@
   "devDependencies": {
     "prettier": "2.0.5"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/tarunv09/blog-demo#readme",
   "keywords": [
-    "gatsby"
+    "tarunv09"
   ],
   "license": "MIT",
   "main": "n/a",

@@ -4,11 +4,11 @@ date: "2020-03-15T22:40:32.169Z"
 description: Learn how to create your own blog using static-site generator like Gatsby and deploy it with the help of Netlify.
 ---
 
-Starting a blog looks difficult. You have to come up with a name, set it up somehow, figure out where to host it… it’s enough to make you just give up and go write on Medium (or not at all).
+Starting a blog could be sometimes difficult. You have to come up with a name, set it up somehow, figure out where to host it… it’s enough to make you just give up and go write on Medium (or not at all) and pay unnecessary commission for your content. 
 
-If you manage to get started, there are yet more obstacles. How can you grow an audience if you’re starting from zero? How do you figure out what to write about? And then – how do you keep writing, even when you don’t feel like it?
+Even, If you manage to get started, there are yet more obstacles. How can you grow an audience if you’re starting from zero? How do you figure out what to write about? And then – how do you keep writing, even when you don’t feel like it? In all this cumbersome process one can lose a lot of time in setting up the blog.
 
-So that's why I have written this article. And Don't worry, I will walk you through everything you need to know. In this article we will cover:
+So that’s why I have written this article. It starts with zero assumptions about your level of understanding Gatsby and walks through every step of the process. And Don't worry, I will walk you through everything you need to know. In this article we will cover:
 
     1. How to set up a blog in under 15 minutes with GatsbyJS
     2. How to host it for free on Netlify
@@ -32,21 +32,17 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
       ```
       Use the Gatsby CLI to create a new site, specifying the blog starter.
 
-      Now, create a new Gatsby site using the blog starter
       ```shell
-          gatsby new <my-new-blog-directory> https://github.com/gatsbyjs/gatsby-starter-blog
+        gatsby new <my-new-blog-directory> https://github.com/gatsbyjs/gatsby-starter-blog
       ``` 
-
-  2.  **Start developing.**
-
-      Navigate into your new site’s directory and start it up.
+      Now, Navigate into your new site’s directory and start it up.
 
       ```shell
-          cd <my-new-blog-directory>
-          gatsby develop
+        cd <my-new-blog-directory>
+        gatsby develop
       ```
 
-  3.  **Open the source code and Make It YOUR OWN!**
+  2.  **Open the source code and Make It YOUR OWN!**
 
       Your site is now running at `http://localhost:8000`!
       Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you  can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
@@ -70,19 +66,19 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
       If you want to know more about each directories in brief then visit this [link.](https://github.com/tarunv09/blog-demo/blob/master/README.md)
 
 
-  4.  **Write a New Post**
+  3.  **Write a New Post**
 
       This starter project is set up to look for blog posts under the `content/blog` directory (because `gatsby-config.js` told it to).
 
       To create a new post, you just need to create a new file in there, with a `.md` or `.markdown` extension. To try it out, create a file called `first-post.md` under `content/blog`. Inside this file, write this out:
 
       ```shell
-            ---
-            title: My First Post
-            ---
+        ---
+        title: My First Post
+        ---
 
-            Hello World, Welcome my new blog!
-            The stuff at the top inside the dashes is called “frontmatter”. Here you can set the title, date, and other metadata about the post. The frontmatter won’t appear in the final document.
+        Hello World, Welcome my new blog!
+        The stuff at the top inside the dashes is called “frontmatter”. Here you can set the title, date, and other metadata about the post. The frontmatter won’t appear in the final document.
       ```
 
       As soon as you save this, the Gatsby development server will pick it up and re-generate the blog. If you have http://localhost:8000/ open already, it’ll hot-reload with your new post on the front page.
@@ -93,14 +89,15 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
       Gatsby will also find files in subdirectories of content/blog, so you could create a new folder for each post if you want to. Look at the existing posts, and you’ll see that they exist as index.md files within directories. Further, notice how their URL is determined by the directory name.
 
+      **Try This:**
       ```shell
-          Try This: What happens if you create a similar file under the content/blog/hello-world directory?
-                    Does it appear on the front page? 
-                    What’s the resulting URL? 
-                    Does it all make sense? If not, edit as much as want!
+        What happens if you create a similar file under the content/blog/hello-world directory?
+        Does it appear on the front page? 
+        What’s the resulting URL? 
+        Does it all make sense? If not, edit as much as want!
       ```
 
-  5. **Now It's Time to Push Your Blog to GitHub**
+  4. **Now It's Time to Push Your Blog to GitHub**
 
       Go to GitHub and create a new repo. **Don’t check “initialize the repo with a README”** because we’re going to import the everything pre-made from your machine.
 
@@ -117,7 +114,7 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
     
       If you refresh your blog’s GitHub repo now, you should see the README file that says **“Gatsby’s blog starter”**. With your blog up on GitHub, you can now deploy it to Netlify.
 
-  6. **Finally, Deploy Your Gatsby Blog to Web using Netlify**
+  5. **Finally, Deploy Your Gatsby Blog to Web using Netlify**
 
       
       Netlify is a great free hosting service for static sites. My own blog, the one you’re reading now, runs on Netlify. It’s easy to set up, and publishing new posts is as easy as git push.
@@ -138,9 +135,9 @@ Let’s walk through setting up your blog right now. You’ll need to make sure 
 
    ####By Now, you have:#####
 
-           learn something new today 🎓  
-           created a local dev environment 💻 where you can write posts and preview them
-           deployed it over the web for free 🔥 
-           ownership of your own content forever, Tada!🎉
+        learn something new today 🎓  
+        created a local dev environment 💻 where you can write posts and preview them
+        deployed it over the web for free 🔥 
+        ownership of your own content forever, Tada!🎉
 
    ####If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09) or visit [this blog's repo files on github](https://github.com/tarunv09/blog-demo). Also you can checkout the [official Gatsby youtube tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification. And if everything worked-out for you, then go ahead and Start Blogging!####
