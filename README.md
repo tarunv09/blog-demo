@@ -69,11 +69,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 #### If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09). Also you can checkout the [official Gatsby youtube tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification.
 
-## Author
+## 👨‍💻 Author
 
-- [Tarun Varshney](https://tarun-varshney.netlify.app/)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+- [Tarun Varshney](http://www.tarunvarshney.tech/)
 
