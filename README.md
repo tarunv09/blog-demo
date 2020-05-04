@@ -10,7 +10,12 @@
 
 _Tarun's personal website running on Gatsby, React, and Node.js._
 
-[![License: MIT](https://img.shields.io/github/license/tarunv09/blog-demo)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/48420d11-7e76-4503-bc63-5d569877c691/deploy-status)](https://app.netlify.com/sites/tarun-varshney/deploys) [![DeepScan grade](https://deepscan.io/api/teams/8966/projects/11195/branches/164049/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=8966&pid=11195&bid=164049) ![GitHub pull-requests](https://img.shields.io/github/issues-pr/tarunv09/blog-demo.svg) [![GitHub issues](https://img.shields.io/github/issues/tarunv09/blog-demo.svg)](https://img.shields.io/github/issues/tarunv09/blog-demo )
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48420d11-7e76-4503-bc63-5d569877c691/deploy-status)](https://app.netlify.com/sites/tarun-varshney/deploys)
+[![License: MIT](https://img.shields.io/github/license/tarunv09/blog-demo)](https://opensource.org/licenses/MIT)
+[![DeepScan grade](https://deepscan.io/api/teams/8966/projects/11195/branches/164049/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=8966&pid=11195&bid=164049)
+[![GitHub issues](https://img.shields.io/github/issues/tarunv09/blog-demo.svg)](https://img.shields.io/github/issues/tarunv09/blog-demo )
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/tarunv09/blog-demo.svg)]
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/tarunv09/blog-demo.svg)](https://gitHub.com/tarunv09/blog-demo/pull/)
 
 ## 🧐 What's inside?
 
