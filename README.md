@@ -8,9 +8,14 @@
   Welcome to My Blog
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+_Tarun's personal blog running on Gatsby, React, and Node.js._
 
-_Have another more specific idea? You may want to check out the vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48420d11-7e76-4503-bc63-5d569877c691/deploy-status)](https://app.netlify.com/sites/tarun-varshney/deploys)
+[![DeepScan grade](https://deepscan.io/api/teams/8966/projects/11195/branches/164049/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=8966&pid=11195&bid=164049)
+[![License: MIT](https://img.shields.io/github/license/tarunv09/blog-demo)](https://opensource.org/licenses/MIT)
+![GitHub issues](https://img.shields.io/github/issues/tarunv09/blog-demo)
+![GitHub pull-requests](https://img.shields.io/github/issues-pr/tarunv09/blog-demo)
+![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/tarunv09/blog-demo)
 
 ## 🧐 What's inside?
 
@@ -63,4 +68,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **To dive straight into code samples, head [to this documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 #### If you still get stuck, feel free to reach out to me on [Linkedin](https://in.linkedin.com/in/tarunv09). Also you can checkout the [official Gatsby youtube tutorial](https://www.youtube.com/watch?v=xJVHWhO9bJY) for better clarification.
+
+## 👨‍💻 Author
+
+- [Tarun Varshney](http://www.tarunvarshney.tech/)
 
